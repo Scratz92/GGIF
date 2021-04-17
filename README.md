@@ -23,3 +23,9 @@ Logo
 Color scheme
 Social media platforms
 Who are the sponsers ?
+
+Inspiration:
+- https://ajax.dk/
+- https://aarhushaandbold.dk/
+- https://tmth.dk/
+- https://skivefh.dk/
