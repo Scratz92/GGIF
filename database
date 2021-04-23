@@ -1,15 +1,12 @@
 ftp:
-host: 160.153.131.195
+host: 160.153.131.1
 port: 21
 user: ggifdaniel@danielhansen.dk 
-pass: Kvbwkk28rx8z6
 
 database:
 user: GGIF
-pass: xH=sq)z@VG;i
 
 Wordpress:
 user: Daniel Hansen
-pass: %p@VY^RGrc^zGD(qLP
 
 123
